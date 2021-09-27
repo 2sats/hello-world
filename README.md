@@ -1,5 +1,5 @@
 # hello-world
 Just another repository
-Ho world,
+Hello world,
 
 2sats here, checking out some stuff.
